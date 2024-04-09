@@ -1,0 +1,50 @@
+{
+  "input" : [ {
+    "id" : "j1_1",
+    "text" : "audiobooks",
+    "li_attr" : {
+      "id" : "j1_1"
+    },
+    "a_attr" : {
+      "href" : "#",
+      "id" : "j1_1_anchor"
+    },
+    "state" : {
+      "loaded" : true,
+      "opened" : false,
+      "selected" : false,
+      "disabled" : false
+    },
+    "data" : { },
+    "children" : [ ],
+    "type" : "string"
+  }, {
+    "id" : "j1_2",
+    "text" : "token",
+    "li_attr" : {
+      "id" : "j1_2"
+    },
+    "a_attr" : {
+      "href" : "#",
+      "id" : "j1_2_anchor"
+    },
+    "state" : {
+      "loaded" : true,
+      "opened" : false,
+      "selected" : true,
+      "disabled" : false
+    },
+    "data" : { },
+    "children" : [ ],
+    "type" : "string"
+  } ],
+  "output" : [ ],
+  "package" : "cGFja2FnZSBwYWNrYWdlcy5TcG90aWZ5X1BsdWdpbi5hcGk7",
+  "imports" : "aW1wb3J0IGNvbS5la2EubWlkZGxld2FyZS5zZXJ2aWNlLkRhdGFQaXBlbGluZTsKaW1wb3J0IGNvbS5la2EubWlkZGxld2FyZS5zZXJ2aWNlLlNlcnZpY2VVdGlsczsKaW1wb3J0IGNvbS5la2EubWlkZGxld2FyZS50ZW1wbGF0ZS5TbmlwcGV0RXhjZXB0aW9uOwppbXBvcnQgamF2YS5uZXQuaHR0cC4qOwppbXBvcnQgamF2YS5uZXQuKjsKaW1wb3J0IGphdmEudXRpbC4qOwppbXBvcnQgamF2YXguanNvbi5Kc29uOwppbXBvcnQgamF2YXguanNvbi5Kc29uT2JqZWN0OwppbXBvcnQgamF2YXguanNvbi5Kc29uUmVhZGVyOwppbXBvcnQgamF2YS5pby5TdHJpbmdSZWFkZXI7",
+  "main" : "CXRyeSB7CiAgICAgICAgICAgIFN0cmluZyB0b2tlbiA9IGRhdGFQaXBlbGluZS5nZXRTdHJpbmcoInRva2VuIik7CiAgICAgICAgICAgIFN0cmluZyB4VmFsdWUgPSBkYXRhUGlwZWxpbmUuZ2V0U3RyaW5nKCJhdWRpb2Jvb2tzIik7CgogICAgICAgICAgICBTdHJpbmcgYXBpVXJsID0gImh0dHBzOi8vYXBpLnNwb3RpZnkuY29tL3YxL2F1ZGlvYm9va3MvIiArIHhWYWx1ZTsKCiAgICAgICAgICAgIEh0dHBSZXF1ZXN0IHJlcXVlc3QgPSBIdHRwUmVxdWVzdC5uZXdCdWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAudXJpKFVSSS5jcmVhdGUoYXBpVXJsKSkKICAgICAgICAgICAgICAgICAgICAuaGVhZGVyKCJBdXRob3JpemF0aW9uIiwgIkJlYXJlciAiICsgdG9rZW4pCiAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCk7CgogICAgICAgICAgICBIdHRwUmVzcG9uc2U8U3RyaW5nPiByZXNwb25zZSA9IEh0dHBDbGllbnQubmV3SHR0cENsaWVudCgpCiAgICAgICAgICAgICAgICAgICAgLnNlbmQocmVxdWVzdCwgSHR0cFJlc3BvbnNlLkJvZHlIYW5kbGVycy5vZlN0cmluZygpKTsKCQkJSnNvbk9iamVjdCBqc29uUmVzcG9uc2U7CiAgICAgICAgdHJ5IChKc29uUmVhZGVyIGpzb25SZWFkZXIgPSBKc29uLmNyZWF0ZVJlYWRlcihuZXcgU3RyaW5nUmVhZGVyKHJlc3BvbnNlLmJvZHkoKSkpKSB7CiAgICAgICAgICAgIGpzb25SZXNwb25zZSA9IGpzb25SZWFkZXIucmVhZE9iamVjdCgpOwogICAgICAgIH0KICAgICAgICAgICAgZGF0YVBpcGVsaW5lLnB1dCgiYXBpUmVzcG9uc2UiLCBqc29uUmVzcG9uc2UpOwogICAgICAgICAgICBkYXRhUGlwZWxpbmUucHV0KCJzdGF0dXNDb2RlIiwgcmVzcG9uc2Uuc3RhdHVzQ29kZSgpKTsKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBkYXRhUGlwZWxpbmUuY2xlYXIoKTsKICAgICAgICAgICAgZGF0YVBpcGVsaW5lLnB1dCgiZXJyb3IiLCBlLmdldE1lc3NhZ2UoKSk7CiAgICAgICAgICAgIG5ldyBTbmlwcGV0RXhjZXB0aW9uKGRhdGFQaXBlbGluZSwgIlNuaXBwZXQgZXhjZXB0aW9uIiwgbmV3IEV4Y2VwdGlvbihlKSk7CiAgICAgICAgfQ==",
+  "staticWorkspace" : "",
+  "version" : "v1",
+  "consumers" : "developers",
+  "developers" : "developers",
+  "lockedByUser" : "renudilip19@gmail.com"
+}
